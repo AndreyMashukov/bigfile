@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="1.4.5">
+ <file name="/home/git/bigfile/src/BigFile.php">
+  <error line="1" column="1" severity="error" message="An error occurred during processing; checking has been aborted. The error message was: Tab width cannot be 0" source="unknownSniff"/>
+ </file>
+ <file name="/home/git/bigfile/tests/BigFileTest.php">
+  <error line="1" column="1" severity="error" message="An error occurred during processing; checking has been aborted. The error message was: Tab width cannot be 0" source="unknownSniff"/>
+ </file>
+</checkstyle>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="BigFile" tests="4" assertions="11" failures="0" errors="0" time="1.633114">
+    <testsuite name="Tests\BigFileTest" file="/home/git/bigfile/tests/BigFileTest.php" tests="4" assertions="11" failures="0" errors="0" time="1.633114">
+      <testcase name="testShouldAddNewRecordToFile" class="Tests\BigFileTest" file="/home/git/bigfile/tests/BigFileTest.php" line="75" assertions="2" time="0.496730"/>
+      <testcase name="testShouldWriteDataToFileIfDefinedConstantBigfiledir" class="Tests\BigFileTest" file="/home/git/bigfile/tests/BigFileTest.php" line="94" assertions="3" time="0.407522"/>
+      <testcase name="testShouldUpdateRecordByIndex" class="Tests\BigFileTest" file="/home/git/bigfile/tests/BigFileTest.php" line="117" assertions="4" time="0.352308"/>
+      <testcase name="testShouldGetRecordByIndex" class="Tests\BigFileTest" file="/home/git/bigfile/tests/BigFileTest.php" line="142" assertions="2" time="0.376554"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
